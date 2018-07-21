@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:percent-24.2.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/percent-24.2.0.aar/6a4dbb8fcf4cebcb39bd3c9d7d43d72e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/percent-24.2.0.aar/6a4dbb8fcf4cebcb39bd3c9d7d43d72e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/percent/24.2.0/percent-24.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/percent/24.2.0/percent-24.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.aitorvs.android.fingerlock"
+      android:versionCode="196"
+      android:versionName="1.0.0-3-g3b979d9"
+      split="lib_slice_8_apk">
+</manifest>

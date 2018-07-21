@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [:dialog] /home/tim/AndroidStudioProjects/fingerlock/dialog/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:core] /home/tim/AndroidStudioProjects/fingerlock/core/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] /home/tim/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/e445fed414a08475bd14f6abd3c7e462/AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.5] /home/tim/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/7c9d6aebfe0c3ef97a9a45e7734ddc20/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/baf801d45e80ac6f99dcf90336ba3556/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:percent:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/percent-24.2.0.aar/6a4dbb8fcf4cebcb39bd3c9d7d43d72e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/c6f9b1d00b63e489a7885ba06c3d4224/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/dd031821b7dd4539c2d9333a8dcc740f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/tim/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/5394d43eb45366c3e4f0a98931215bca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3f269830e47afbc122920f5e413f1954/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/7ae2ece1178ec15819683b31633bf2f3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/6ed35976785d9888edee4b265d569d23/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/f63ae4846bb4739eb59890e4baf06a1f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/aea3450ea91d7d6f7c35669ce4741e55/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/149bc9e255df46495f01cd9847272a05/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:5:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.REORDER_TASKS
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:7:22-69
+application
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:9:5-39:19
+MERGED from [:dialog] /home/tim/AndroidStudioProjects/fingerlock/dialog/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-20
+MERGED from [:dialog] /home/tim/AndroidStudioProjects/fingerlock/dialog/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-20
+MERGED from [:core] /home/tim/AndroidStudioProjects/fingerlock/core/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-20
+MERGED from [:core] /home/tim/AndroidStudioProjects/fingerlock/core/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] /home/tim/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/e445fed414a08475bd14f6abd3c7e462/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] /home/tim/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/e445fed414a08475bd14f6abd3c7e462/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/baf801d45e80ac6f99dcf90336ba3556/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/baf801d45e80ac6f99dcf90336ba3556/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:percent:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/percent-24.2.0.aar/6a4dbb8fcf4cebcb39bd3c9d7d43d72e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:percent:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/percent-24.2.0.aar/6a4dbb8fcf4cebcb39bd3c9d7d43d72e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/c6f9b1d00b63e489a7885ba06c3d4224/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/c6f9b1d00b63e489a7885ba06c3d4224/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/dd031821b7dd4539c2d9333a8dcc740f/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/dd031821b7dd4539c2d9333a8dcc740f/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3f269830e47afbc122920f5e413f1954/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3f269830e47afbc122920f5e413f1954/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/7ae2ece1178ec15819683b31633bf2f3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/7ae2ece1178ec15819683b31633bf2f3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/6ed35976785d9888edee4b265d569d23/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/6ed35976785d9888edee4b265d569d23/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/f63ae4846bb4739eb59890e4baf06a1f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/f63ae4846bb4739eb59890e4baf06a1f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/aea3450ea91d7d6f7c35669ce4741e55/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/aea3450ea91d7d6f7c35669ce4741e55/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/149bc9e255df46495f01cd9847272a05/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/149bc9e255df46495f01cd9847272a05/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.aitorvs.android.fingerlocksample.MainActivity
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:15:19-83
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:19:27-74
+receiver#com.aitorvs.android.fingerlocksample.yourActivityRunOnStartup
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:23:9-37:20
+	android:enabled
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:24:13-35
+	android:exported
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:25:13-36
+	android:permission
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:27:13-75
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:26:13-89
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:29:13-35:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:30:17-79
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:30:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:31:25-79
+category#android.intent.category.HOME
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:33:17-73
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:33:27-70
+category#android.intent.category.DEFAULT
+ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:34:27-73
+uses-sdk
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+MERGED from [:dialog] /home/tim/AndroidStudioProjects/fingerlock/dialog/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:dialog] /home/tim/AndroidStudioProjects/fingerlock/dialog/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:core] /home/tim/AndroidStudioProjects/fingerlock/core/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:core] /home/tim/AndroidStudioProjects/fingerlock/core/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] /home/tim/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/e445fed414a08475bd14f6abd3c7e462/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] /home/tim/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/e445fed414a08475bd14f6abd3c7e462/AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.5] /home/tim/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/7c9d6aebfe0c3ef97a9a45e7734ddc20/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.5] /home/tim/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/7c9d6aebfe0c3ef97a9a45e7734ddc20/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/baf801d45e80ac6f99dcf90336ba3556/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/baf801d45e80ac6f99dcf90336ba3556/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:percent:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/percent-24.2.0.aar/6a4dbb8fcf4cebcb39bd3c9d7d43d72e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:percent:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/percent-24.2.0.aar/6a4dbb8fcf4cebcb39bd3c9d7d43d72e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/c6f9b1d00b63e489a7885ba06c3d4224/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/c6f9b1d00b63e489a7885ba06c3d4224/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/dd031821b7dd4539c2d9333a8dcc740f/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/dd031821b7dd4539c2d9333a8dcc740f/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/tim/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/5394d43eb45366c3e4f0a98931215bca/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/tim/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/5394d43eb45366c3e4f0a98931215bca/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3f269830e47afbc122920f5e413f1954/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3f269830e47afbc122920f5e413f1954/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/7ae2ece1178ec15819683b31633bf2f3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/7ae2ece1178ec15819683b31633bf2f3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/6ed35976785d9888edee4b265d569d23/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/6ed35976785d9888edee4b265d569d23/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/f63ae4846bb4739eb59890e4baf06a1f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/f63ae4846bb4739eb59890e4baf06a1f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/aea3450ea91d7d6f7c35669ce4741e55/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/aea3450ea91d7d6f7c35669ce4741e55/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/149bc9e255df46495f01cd9847272a05/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/149bc9e255df46495f01cd9847272a05/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.8.5.9] /home/tim/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/e445fed414a08475bd14f6abd3c7e462/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml

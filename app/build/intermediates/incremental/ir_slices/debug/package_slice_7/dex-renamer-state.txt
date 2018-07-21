@@ -1,0 +1,4 @@
+#Sat Jul 21 07:02:05 WAT 2018
+base.0=/home/tim/AndroidStudioProjects/fingerlock/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

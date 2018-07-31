@@ -108,6 +108,8 @@ public class MainActivity extends AppCompatActivity
                 mFingerLock.start();
             }
         });
+        // Close App
+        android.os.Process.killProcess(android.os.Process.myPid());
     }
 
     @Override
@@ -152,6 +154,9 @@ public class MainActivity extends AppCompatActivity
     @Override
     public void onFingerprintDialogAuthenticated() {
         Toast.makeText(this, R.string.dialog_authenticated, Toast.LENGTH_LONG).show();
+        // Close App
+        android.os.Process.killProcess(android.os.Process.myPid());
+
     }
 
     @Override
@@ -160,7 +165,7 @@ public class MainActivity extends AppCompatActivity
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                dialog.notifyPasswordValidation(password.equals("aitorvs"));
+                dialog.notifyPasswordValidation(password.equals("12345678"));
             }
         }, 1000);
     }

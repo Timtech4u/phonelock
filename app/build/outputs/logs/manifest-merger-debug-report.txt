@@ -3,7 +3,6 @@ manifest
 ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
 INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
 INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
 MERGED from [:dialog] /home/tim/AndroidStudioProjects/fingerlock/dialog/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:core] /home/tim/AndroidStudioProjects/fingerlock/core/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] /home/tim/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/e445fed414a08475bd14f6abd3c7e462/AndroidManifest.xml:2:1-15:12
@@ -21,14 +20,9 @@ MERGED from [com.android.support:support-core-ui:24.2.0] /home/tim/.gradle/cache
 MERGED from [com.android.support:support-compat:24.2.0] /home/tim/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/149bc9e255df46495f01cd9847272a05/AndroidManifest.xml:17:1-27:12
 INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
 INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:3:5-51
 		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
-		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
-	android:versionName
-		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
-		ADDED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml:2:1-41:12
 		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/tim/AndroidStudioProjects/fingerlock/app/src/main/AndroidManifest.xml
